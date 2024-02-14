@@ -1,1 +1,1 @@
-a conflict
+contents with conflict
